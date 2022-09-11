@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Desktop\\Capgemini\\Pharmacy_Management\\PharmacyWebAPI\\PharmacyWebAPI\\PharmacyWebAPI.csproj": {}
+    "E:\\PMS\\PharmacyWebAPI\\PharmacyWebAPI\\PharmacyWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Desktop\\Capgemini\\Pharmacy_Management\\PharmacyWebAPI\\PharmacyWebAPI\\PharmacyWebAPI.csproj": {
+    "E:\\PMS\\PharmacyWebAPI\\PharmacyWebAPI\\PharmacyWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Capgemini\\Pharmacy_Management\\PharmacyWebAPI\\PharmacyWebAPI\\PharmacyWebAPI.csproj",
+        "projectUniqueName": "E:\\PMS\\PharmacyWebAPI\\PharmacyWebAPI\\PharmacyWebAPI.csproj",
         "projectName": "PharmacyWebAPI",
-        "projectPath": "C:\\Users\\KIIT\\Desktop\\Capgemini\\Pharmacy_Management\\PharmacyWebAPI\\PharmacyWebAPI\\PharmacyWebAPI.csproj",
-        "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Desktop\\Capgemini\\Pharmacy_Management\\PharmacyWebAPI\\PharmacyWebAPI\\obj\\",
+        "projectPath": "E:\\PMS\\PharmacyWebAPI\\PharmacyWebAPI\\PharmacyWebAPI.csproj",
+        "packagesPath": "C:\\Users\\anshp\\.nuget\\packages\\",
+        "outputPath": "E:\\PMS\\PharmacyWebAPI\\PharmacyWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anshp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
